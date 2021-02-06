@@ -1,0 +1,184 @@
+body {
+    background: url(../assets/background.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Abel', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #000103;
+    background-color: rgb(110, 95, 110);
+    margin: 20px;
+}
+
+a {
+    color: #04145c;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+b,
+strong {
+    font-weight: 600;
+}
+
+hr,
+.rule {
+    height: 0;
+    margin: 15px 0;
+    overflow: hidden;
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #746577
+}
+
+hr::before,
+.rule::before {
+    display: table;
+    content: ""
+}
+
+hr::after,
+.rule::after {
+    display: table;
+    clear: both;
+    content: ""
+}
+
+td,
+th {
+    padding: 0
+}
+
+button {
+    cursor: pointer;
+    border-radius: 0;
+}
+
+h1 {
+    font-family: 'Yanone Kaffeesatz', cursive;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#logo img {
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+}
+.contato{
+
+
+}
+
+.contato .icons {
+
+    gap: 0.9em;
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.contato a {
+    color: #c62e4b;
+    font-size: 3em;
+    transition: text-shadow 1s;
+
+}
+
+.contato a:active,
+.contato a:hover {
+    text-decoration: none;
+    text-shadow: 0px 0px 70px rgb(255, 0, 255);
+}
+
+.tags {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#botoes {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 6px;
+}
+
+#botoes img {
+    width: 40px;
+    padding-right: 8px;
+}
+
+#botoes .botao {
+    margin: 6px;
+    padding: 4px;
+    padding-right: 15px;
+    border-radius: 7px;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    /*background-color: rgb(86, 94, 71);*/
+    background-color: rgb(85, 11, 11);
+}
+
+#botoes a {
+    color: whitesmoke;
+}
+
+#direitos{
+
+    font-size: 13px;
+    padding: 30px;
+}
+
+#direitos p{
+    text-align: center;
+      margin: 0 auto;
+}
+
+
+@media (max-width: 1070px) {
+    .container {
+        padding: 20px;
+        font-size: 35px;
+        width: 95%;
+    }
+  
+  
+    #botoes {
+        display: block;
+        width: 95%;
+    }
+   
+    #botoes img {
+    width: 80px;
+    padding-right: 8px;
+    align-items: center;
+    }
+    #direitos{
+        font-size: 20px;
+        padding: 2px;
+    }
+
+
+@media (max-width: 700px) {
+    #botoes .botao {
+        display: block;
+    }
+    #botoes img {
+        display: block;
+    }
+}
