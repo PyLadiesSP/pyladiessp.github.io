@@ -53,7 +53,7 @@ Sitemap com os repositórios dos nossos canais:
 - [Sobre](https://github.com/PyLadiesSP/sobre)
     * [Sobre a PyladiesSP](https://github.com/PyLadiesSP/sobre/blob/master/sobre_pyladiessp.pdf) [versão do arquivo 2019]
 
-## Documentação
+## Docs
 
 Página com os formulários da Pyladies São Paulo.
 
