@@ -46,5 +46,4 @@ Desenvolvimento do site da comunidade Pyladies na cidade de São Paulo.
 As permissões desta licença copyleft forte estão condicionadas a disponibilizar o código fonte completo das obras e modificações licenciadas, que incluem obras maiores usando uma obra licenciada, sob a mesma licença. Os avisos de direitos autorais e licença devem ser preservados. Os colaboradores fornecem uma concessão expressa de direitos de patente.
 
 ##### Considerações finais
-Layout baseado do layout inicial proposto pela
-[Daviny Vidal](http://davinyvidal.github.io), sendo feito com 💜 para comunidade PyladiesSP
+Layout feito com 💜 para comunidade PyladiesSP
