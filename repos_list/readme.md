@@ -55,9 +55,9 @@ Sitemap com os repositórios dos nossos canais:
 
 ## Docs
 
-Página com os formulários da Pyladies São Paulo.
+Página com documentações e formulários do capítulo das Pyladies na cidade de São Paulo.
 
-- [Formulários](http://google.com)
+- [Formulário Material Palestrante](http://google.com)
     - Envio de materiais da palestrante.
 
 ## Contribuir
