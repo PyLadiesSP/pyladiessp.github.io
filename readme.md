@@ -27,13 +27,6 @@ Desenvolvimento do site da comunidade Pyladies na cidade de São Paulo.
 | readme.md 
 ```
 
-## Print Screen
-
-
-![Print Screen](./public/assets/print_screen.png)
- Print Screen do layout Base, feito pela Daviny
-
-
 ## Ferramentas ultilizadas
 
 * HTML
@@ -46,4 +39,4 @@ Desenvolvimento do site da comunidade Pyladies na cidade de São Paulo.
 As permissões desta licença copyleft forte estão condicionadas a disponibilizar o código fonte completo das obras e modificações licenciadas, que incluem obras maiores usando uma obra licenciada, sob a mesma licença. Os avisos de direitos autorais e licença devem ser preservados. Os colaboradores fornecem uma concessão expressa de direitos de patente.
 
 ##### Considerações finais
-Layout feito com 💜 para comunidade PyladiesSP
+Layout feito com 💜 pela comunidade comunidade PyladiesSP
