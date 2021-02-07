@@ -52,7 +52,14 @@ Sitemap com os repositórios dos nossos canais:
     * Segundo logo
 - [Sobre](https://github.com/PyLadiesSP/sobre)
     * [Sobre a PyladiesSP](https://github.com/PyLadiesSP/sobre/blob/master/sobre_pyladiessp.pdf) [versão do arquivo 2019]
-  
+
+## Documentação
+
+Página com os formulários da Pyladies São Paulo.
+
+- [Formulários](http://google.com)
+    - Envio de materiais da palestrante.
+
 ## Contribuir
 
 Os cursos são mantidos pelo [PyLadies São Paulo](https://pyladiessp.github.io) se você encontrar quaisquer erros ou quiser enviar sugestões contate-nos pelo [e-mail](mailto:saopaulo@pyladies.com).
