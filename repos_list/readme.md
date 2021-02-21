@@ -2,6 +2,8 @@
 
 Sitemap com os repositórios dos nossos canais:
 
+🔍 obs.: para pesquisar na página ultilizando o navegador Google Chorme e Mozila FireFox usa a tecla de atalho cotrol + F
+
 ## Menu
 
 - [Instalação Python 3.4](https://github.com/PyLadiesSP/Cursos/blob/master/tutoriais/instalacao_python3-4.pdf)
@@ -10,7 +12,7 @@ Sitemap com os repositórios dos nossos canais:
 
     * [Iniciante I](https://github.com/PyLadiesSP/Cursos/blob/master/Basico_I/Basico_1.pdf)
     * [Iniciante II](https://github.com/PyLadiesSP/Cursos/blob/master/Basico_II/basico_II.pdf)
-    * [Intermediario I](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_I/IntermediarioI_PyLadiesSP.pdf]
+    * [Intermediario I](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_I/IntermediarioI_PyLadiesSP.pdf)
     * [Intermediario II](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_II/Intermediario_II.pdf)
 
   * [Orientação à Objetos com Python - ministrado pela Júlia Rizza](https://github.com/PyLadiesSP/Cursos/blob/master/Intermedi%C3%A1rio%20II/Intermedi%C3%A1rioII_PyLadiesSP.pdf)
