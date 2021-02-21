@@ -9,7 +9,7 @@ Sitemap com os repositórios dos nossos canais:
 - [Curso da Pyladies](https://github.com/PyLadiesSP/Cursos)
 
     * [Iniciante I](https://github.com/PyLadiesSP/Cursos/blob/master/Basico_I/Basico_1.pdf)
-    * [Iniciante II](https://github.com/PyLadiesSP/Cursos/blob/master/Basico_II/basico_II.pdf)]
+    * [Iniciante II](https://github.com/PyLadiesSP/Cursos/blob/master/Basico_II/basico_II.pdf)
     * [Intermediario I](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_I/IntermediarioI_PyLadiesSP.pdf]
     * [Intermediario II](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_II/Intermediario_II.pdf)
 
