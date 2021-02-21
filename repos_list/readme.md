@@ -22,8 +22,8 @@ Sitemap com os repositórios dos nossos canais:
   
   * [Raspagem de Dados com Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem_de_dados_PyLadiesSP.pdf)
 
-- Palestras Online
-    * Eventos de Quarentena: Observabilidade com o Elastic Stack.
+- Palestras Online **2020**
+    * Eventos Online: Observabilidade com o Elastic Stack.
         - [Vídeo no Youtube](https://www.youtube.com/watch?v=LghF8-uwBEk)
     - Eventos Online: Oportunidades de Carreira para Marketeirxs.
         - [Vídeo no Youtube](https://www.youtube.com/watch?v=4LSBHvCPWwc)
@@ -42,6 +42,11 @@ Sitemap com os repositórios dos nossos canais:
     - [Vídeo no Youtube](https://www.youtube.com/watch?v=xzrt6noI8bw)
   - Eventos Online: TDD com Python.
     - [Vídeos no Youtube](https://www.youtube.com/watch?v=Qf-UyaOb7Xw)
+   
+- Palestras Online **2021**
+    * Eventos Online: Como contribuir para o NumPy com código e documentação.
+        - [Vídeo no Youtube](https://www.youtube.com/watch?v=kAC-62are7I)
+        -  [Slides da apresentação](https://github.com/PyLadiesSP/palestras/blob/master/20210220_documentacao_numpy/como_contribuir_numpy.pdf)
 
 - [Grupo de Estudos em Data Science PyLadies-SP](https://github.com/PyLadiesSP/data-science)
 
