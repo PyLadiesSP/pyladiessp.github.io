@@ -14,13 +14,8 @@ Sitemap com os repositórios dos nossos canais:
     * [Iniciante II](https://github.com/PyLadiesSP/Cursos/blob/master/Basico_II/basico_II.pdf)
     * [Intermediario I](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_I/IntermediarioI_PyLadiesSP.pdf)
     * [Intermediario II](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_II/Intermediario_II.pdf)
-
-  * [Orientação à Objetos com Python - ministrado pela Júlia Rizza](https://github.com/PyLadiesSP/Cursos/blob/master/Intermedi%C3%A1rio%20II/Intermedi%C3%A1rioII_PyLadiesSP.pdf)
-  
-  
-  * [Workshop Básico de Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Workshop_PyLadiesSP.pdf)
-  
-  * [Raspagem de Dados com Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem_de_dados_PyLadiesSP.pdf)
+    * [Workshop Básico de Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Workshop_PyLadiesSP.pdf)
+    * [Raspagem de Dados com Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem_de_dados_PyLadiesSP.pdf)
 
 - Palestras Online **2020**
     * Eventos Online: Observabilidade com o Elastic Stack.
