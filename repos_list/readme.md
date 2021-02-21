@@ -105,4 +105,4 @@ Página com documentações e formulários do capítulo das Pyladies na cidade d
 
 Os cursos são mantidos pelo [PyLadies São Paulo](https://pyladiessp.github.io) se você encontrar quaisquer erros ou quiser enviar sugestões contate-nos pelo [e-mail](mailto:saopaulo@pyladies.com).
 
-> Atualização 02/07/2020
+> Atualização 21/02/2021
