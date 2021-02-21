@@ -42,12 +42,44 @@ Sitemap com os repositórios dos nossos canais:
     - [Vídeos no Youtube](https://www.youtube.com/watch?v=Qf-UyaOb7Xw)
 
 - [Grupo de Estudos em Data Science PyLadies-SP](https://github.com/PyLadiesSP/data-science)
-    * [Apresentações](https://github.com/PyLadiesSP/data-science/blob/master/Apresenta%C3%A7%C3%B5es/Como%20um%20grupo%20de%20estudos%0Aestimula%20a%20troca%20de%20saber%20dentro%20da%0Acomunidade%20Pyladies%20S%C3%A3o%20Paulo.pdf)
-    * [Trilha de estudo](https://github.com/PyLadiesSP/data-science/tree/master/Trilha%20de%20Estudos)
-    * [Workshop](https://github.com/PyLadiesSP/data-science/tree/master/workshops)
-      - [Workshop Introdução Estatistica Pandas](https://github.com/PyLadiesSP/data-science/tree/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas)
-      -  [Workshop Instrução NLP](https://github.com/PyLadiesSP/data-science/tree/master/workshops/workshop_introdu%C3%A7%C3%A3o_nlp)
-      
+
+   - Apresentações
+      - [Documento de Apresentação do GEDS](https://github.com/PyLadiesSP/data-science/blob/master/Apresentacoes/grupo_de_estudos_estimula_troca_de_saber_Pyladies_SP.pdf)
+
+   - Links uteis
+      - Alguns links úteis com [bases de dados](https://github.com/PyLadiesSP/data-science/tree/master/Links_uteis/Bases_de_dados) para serem analisadas e mais variados [textos](https://github.com/PyLadiesSP/data-science/tree/master/Links_uteis/Textos_sobre_Ciencia_de_Dados) sobre Ciência de Dados
+
+   -  Oficinas
+Pasta com arquivos utilizados nas Oficinas de Ciência de Dados e Python
+
+   - Oficina Introdução a Estatística e Pandas
+      - [Material](https://github.com/PyLadiesSP/data-science/blob/master/Oficinas/oficina_introdu%C3%A7%C3%A3o_estatistica_pandas/Workshop%20Introdu%C3%A7%C3%A3o%20a%20Estat%C3%ADstica%20e%20Pandas%20Respostas.pdf)
+      - [Jupyter notebook utilizado](https://github.com/PyLadiesSP/data-science/blob/master/Oficinas/oficina_introdu%C3%A7%C3%A3o_estatistica_pandas/tips_notebook.ipynb)
+      - [Dados utilizados](https://github.com/PyLadiesSP/data-science/blob/master/Oficinas/oficina_introdu%C3%A7%C3%A3o_estatistica_pandas/tips.csv)
+
+   - Trilha de Estudos 
+Material utilizado pelo grupo de estudos, com documentos separados por cada tópico estudado.
+
+      - [Proposta de Estudo](https://pyladiessp.github.io/data-science/Trilha%20de%20Estudos/proposta_estudo.pdf)
+
+      - [Probabilidade básica - Introdução + Exercícios](https://github.com/PyLadiesSP/data-science/blob/master/Trilha_de_Estudos/01%20material.pdf)
+
+      - [Probabilidade básica - Propriedades](https://github.com/PyLadiesSP/data-science/blob/master/Trilha_de_Estudos/02%20material.pdf)
+
+      - [Probabilidade básica - Condicional](https://github.com/PyLadiesSP/data-science/blob/master/Trilha_de_Estudos/03%20material.pdf)
+
+      - [Probabilidade básica - Teorema de Bayes](https://github.com/PyLadiesSP/data-science/blob/master/Trilha_de_Estudos/04%20material.pdf)
+
+     - [Introdução a Variáveis Aleatórias](https://github.com/PyLadiesSP/data-science/blob/master/Trilha_de_Estudos/05%20material.pdf)
+
+     - [Introdução a Variáveis Aleatórias Contínuas - Distribuição Normal](https://github.com/PyLadiesSP/data-science/blob/master/Trilha_de_Estudos/06%20material.pdf)
+
+     - [Introdução à Amostragem e Inferência Estatística](https://github.com/PyLadiesSP/data-science/blob/master/Trilha_de_Estudos/07%20material.pdf)
+
+     - [Teste de Hipótese I](https://github.com/PyLadiesSP/data-science/blob/master/Trilha_de_Estudos/08%20material.pdf)
+
+     - [Teste de Hipótese II](https://github.com/PyLadiesSP/data-science/blob/master/Trilha_de_Estudos/09%20material.pdf)
+
 - [Código de Conduta](https://github.com/PyLadiesSP/codigo-de-conduta)
 - [Logo](https://github.com/PyLadiesSP/logo)
     * Primeiro logo
