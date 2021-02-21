@@ -4,19 +4,21 @@ Sitemap com os repositórios dos nossos canais:
 
 ## Menu
 
-- [Instalação Python 3.4](https://github.com/PyLadiesSP/Cursos/blob/master/Slides_InstallPython_v2.pdf)
+- [Instalação Python 3.4](https://github.com/PyLadiesSP/Cursos/blob/master/tutoriais/instalacao_python3-4.pdf)
 
 - [Curso da Pyladies](https://github.com/PyLadiesSP/Cursos)
 
-    * [Iniciante I](https://github.com/PyLadiesSP/Cursos/blob/master/B%C3%A1sico%20I/B%C3%A1sico%201.pdf)
-    * [Iniciante II](https://github.com/PyLadiesSP/Cursos/blob/master/B%C3%A1sico%20II/B%C3%A1sico%202.pdf)
+    * [Iniciante I](https://github.com/PyLadiesSP/Cursos/blob/master/Basico_I/Basico_1.pdf)
+    * [Iniciante II](https://github.com/PyLadiesSP/Cursos/blob/master/Basico_II/basico_II.pdf)]
+    * [Intermediario I](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_I/IntermediarioI_PyLadiesSP.pdf]
+    * [Intermediario II](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_II/Intermediario_II.pdf)
 
   * [Orientação à Objetos com Python - ministrado pela Júlia Rizza](https://github.com/PyLadiesSP/Cursos/blob/master/Intermedi%C3%A1rio%20II/Intermedi%C3%A1rioII_PyLadiesSP.pdf)
   
   
   * [Workshop Básico de Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Workshop_PyLadiesSP.pdf)
   
-  * [Raspagem de Dados com Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem%20de%20dados_PyLadiesSP.pdf)
+  * [Raspagem de Dados com Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem_de_dados_PyLadiesSP.pdf)
 
 - Palestras Online
     * Eventos de Quarentena: Observabilidade com o Elastic Stack.
