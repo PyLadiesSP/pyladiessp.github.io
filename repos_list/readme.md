@@ -2,8 +2,7 @@
 
 Sitemap com os repositórios dos nossos canais:
 
-🔍 obs.: para pesquisar na página ultilizando o navegador Google Chorme e Mozila FireFox usa a tecla de atalho Ctrl + F
-
+🔍 obs.: Para pesquisar na página utilizando o navegador Google Chrome e Mozila FireFox usa a tecla de atalho Ctrl + F
 ## Menu
 
 - [Instalação Python 3.4](https://github.com/PyLadiesSP/Cursos/blob/master/tutoriais/instalacao_python3-4.pdf)
