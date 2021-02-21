@@ -2,7 +2,7 @@
 
 Sitemap com os repositórios dos nossos canais:
 
-🔍 obs.: para pesquisar na página ultilizando o navegador Google Chorme e Mozila FireFox usa a tecla de atalho cotrol + F
+🔍 obs.: para pesquisar na página ultilizando o navegador Google Chorme e Mozila FireFox usa a tecla de atalho Ctrl + F
 
 ## Menu
 
