@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Fascinate&display=swap');
+
+
 body {
     background: url(../assets/background.jpg);
     background-repeat: repeat;
@@ -14,6 +17,7 @@ body {
 a {
     color: #04145c;
     text-decoration: none;
+    text-decoration:none
 }
 
 a:hover {
@@ -138,6 +142,38 @@ h1 {
     color: whitesmoke;
 }
 
+
+
+
+#botoes_workshop {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 8px;
+}
+
+#botoes_workshop img {
+    width: 40px;
+    padding-right: 8px;
+}
+
+#botoes_workshop .botao {
+    margin: 6px;
+    padding: 4px;
+    padding-right: 15px;
+    border-radius: 7px;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    /*background-color: rgb(86, 94, 71);*/
+    background-color: #499;
+}
+
+#botoes_workshop a {
+    color: whitesmoke;
+}
+
 #direitos{
 
     font-size: 13px;
@@ -173,6 +209,21 @@ h1 {
         padding: 2px;
     }
 
+
+#botoes_workshop {
+        display: block;
+        width: 95%;
+    }
+   
+    #botoes_workshop img {
+    width: 80px;
+    padding-right: 8px;
+    align-items: center;
+    }
+    #direitos{
+        font-size: 20px;
+        padding: 2px;
+    }
 
 @media (max-width: 700px) {
     #botoes .botao {
