@@ -4,6 +4,9 @@ Sitemap com os repositórios dos nossos canais:
 
 🔍 obs.: Para pesquisar na página utilizando o navegador Google Chrome ou Mozila FireFox usa a tecla de atalho Ctrl + F
 ## Menu
+- [Código de Conduta](https://github.com/PyLadiesSP/codigo-de-conduta)
+
+- [Sobre](https://github.com/PyLadiesSP/sobre)
 
 - [Instalação Python 3.4](https://github.com/PyLadiesSP/Cursos/blob/master/tutoriais/instalacao_python3-4.pdf)
 
@@ -81,13 +84,6 @@ Material utilizado pelo grupo de estudos, com documentos separados por cada tóp
 
      - [Teste de Hipótese II](https://github.com/PyLadiesSP/data-science/blob/master/Trilha_de_Estudos/09%20material.pdf)
 
-- [Código de Conduta](https://github.com/PyLadiesSP/codigo-de-conduta)
-- [Logo](https://github.com/PyLadiesSP/logo)
-    * Primeiro logo
-    * Segundo logo
-- [Sobre](https://github.com/PyLadiesSP/sobre)
-    * [Sobre a PyladiesSP](https://github.com/PyLadiesSP/sobre/blob/master/sobre_pyladiessp.pdf) [versão do arquivo 2019]
-
 ## Docs
 
 Página com documentações e formulários do capítulo das Pyladies na cidade de São Paulo.
@@ -97,6 +93,6 @@ Página com documentações e formulários do capítulo das Pyladies na cidade d
 
 ## Contribuir
 
-Os cursos são mantidos pelo [PyLadies São Paulo](https://pyladiessp.github.io) se você encontrar quaisquer erros ou quiser enviar sugestões contate-nos pelo [e-mail](mailto:saopaulo@pyladies.com).
+Os cursos são mantidos pelo [PyLadies São Paulo](https://pyladiessp.github.io) se você encontrar quaisquer erros ou quiser enviar sugestões contate-nos pelo [e-mail](mailto:saopaulo@pyladies.com) ou abrir issue.
 
-> Atualização 21/02/2021
+> Atualização 11/08/2022
